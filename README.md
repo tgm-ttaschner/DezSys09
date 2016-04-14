@@ -40,7 +40,7 @@ Die erfolgreiche Implementierung soll mit entsprechenden Testfällen (Acceptance
 
 "Heroku makes it easy to deploy and scale Java apps in the cloud"; online: https://www.heroku.com/
 
-** Bewertung: ** 16 Punkte
+**Bewertung:** 16 Punkte
 - Aufsetzen einer Webservice-Schnittstelle (4 Punkte)
 - Registrierung von Benutzern mit entsprechender Persistierung (4 Punkte)
 - Login und Rückgabe einer Willkommensnachricht (3 Punkte)
