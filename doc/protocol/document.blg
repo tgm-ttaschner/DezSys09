@@ -1,0 +1,26 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--entry type for "RESTIntro" isn't style-file defined
+--line 2 of file references.bib
+Warning--entry type for "REST-JAX-RS" isn't style-file defined
+--line 9 of file references.bib
+Warning--entry type for "JavaEE" isn't style-file defined
+--line 16 of file references.bib
+Warning--entry type for "Heroku" isn't style-file defined
+--line 23 of file references.bib
+Warning--entry type for "GitHub-Repo" isn't style-file defined
+--line 30 of file references.bib
+Warning--entry type for "Bootiful" isn't style-file defined
+--line 37 of file references.bib
+Warning--entry type for "SpringFramework" isn't style-file defined
+--line 44 of file references.bib
+Warning--entry type for "JAXRS" isn't style-file defined
+--line 51 of file references.bib
+Warning--entry type for "Maven" isn't style-file defined
+--line 58 of file references.bib
+Warning--entry type for "H2" isn't style-file defined
+--line 65 of file references.bib
+Warning--entry type for "HTTPFirefox" isn't style-file defined
+--line 72 of file references.bib
+(There were 11 warnings)

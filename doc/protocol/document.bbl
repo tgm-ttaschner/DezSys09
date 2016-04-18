@@ -1,0 +1,63 @@
+\begin{thebibliography}{10}
+
+\bibitem{RESTIntro}
+Android restful webservice tutorial – introduction to restful webservice –
+  part 1.
+\newblock
+  \url{http://programmerguru.com/android-tutorial/android-restful-webservice-tutorial-part-1/}.
+\newblock Zuletzt besucht: 11.03.2016.
+
+\bibitem{REST-JAX-RS}
+Rest with java (jax-rs) using jersey - tutorial.
+\newblock \url{http://www.vogella.com/tutorials/REST/article.html}.
+\newblock Zuletzt besucht: 11.03.2016.
+
+\bibitem{JavaEE}
+O java ee 7 application servers, where art thou? learn all about the state of
+  java ee app servers, a rundown of various java ee servers, and benchmarking.
+\newblock
+  \url{https://dzone.com/articles/o-java-ee-7-application-servers-where-art-thou}.
+\newblock Zuletzt besucht: 11.03.2016.
+
+\bibitem{Heroku}
+Heroku makes it easy to deploy and scale java apps in the cloud.
+\newblock \url{https://www.heroku.com/}.
+\newblock Zuletzt besucht: 11.03.2016.
+
+\bibitem{Bootiful}
+'bootiful' java ee support in spring boot 1.2.
+\newblock \url
+  {http://spring.io/blog/2014/11/23/bootiful-java-ee-support-in-spring-boot-1-2}.
+\newblock zuletzt besucht: 11.03.2016.
+
+\bibitem{SpringFramework}
+Spring.
+\newblock \url {http://spring.io/}.
+\newblock zuletzt besucht: 11.03.2016.
+
+\bibitem{JAXRS}
+Jax-rs.
+\newblock \url {http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html}.
+\newblock zuletzt besucht: 11.03.2016.
+
+\bibitem{Maven}
+Maven.
+\newblock \url {https://maven.apache.org/}.
+\newblock zuletzt besucht: 11.03.2016.
+
+\bibitem{H2}
+H2 database engine.
+\newblock \url {http://www.h2database.com/html/main.html}.
+\newblock zuletzt besucht: 11.03.2016.
+
+\bibitem{GitHub-Repo}
+tgm-ttaschner's dezsys09 repository.
+\newblock \url{https://github.com/tgm-ttaschner/DezSys09}.
+\newblock Zuletzt besucht: 11.03.2016.
+
+\bibitem{HTTPFirefox}
+Httprequester.
+\newblock \url {https://addons.mozilla.org/de/firefox/addon/httprequester/}.
+\newblock zuletzt besucht: 11.03.2016.
+
+\end{thebibliography}
